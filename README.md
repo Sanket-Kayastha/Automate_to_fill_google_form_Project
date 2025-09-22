@@ -1,0 +1,2 @@
+This Python script is a web automation project that performs two main tasks: first, it scrapes property listing data (addresses, prices, and links) from a mock real estate website, and second, it automates the entry of that data into a Google Form.
+<img width="938" height="554" alt="Screenshot 2025-09-22 191852" src="https://github.com/user-attachments/assets/261bcf98-d301-4779-941a-9c2966d54113" />
